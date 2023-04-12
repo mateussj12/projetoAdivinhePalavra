@@ -113,6 +113,6 @@ def jogar_advinhe_palavra():
         print("\nDigite somente (S|N)")
         limpa_tela() 
 
-#DIZ QUE A FUNÃO MAIN É O "JOGAR_FORCA"
+#DIZ QUE O MÓDULO EXECUTÁVEL É O "jogar_advinhe_palavra"
 if __name__ == "__main__":
     jogar_advinhe_palavra()
