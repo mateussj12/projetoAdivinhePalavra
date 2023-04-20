@@ -10,7 +10,6 @@ Esse projeto foi desenvolvido a fim de entender os conceitos de funções, loops
 
 #### Habilidades desenvolvidas:
 - Lógica de programação
-- OF
 - POO
 - Entendimento do Python
 - Entendimento prático sobre herança, polimorfismo e encapsulamento
@@ -18,7 +17,7 @@ Esse projeto foi desenvolvido a fim de entender os conceitos de funções, loops
 ### Requisitos:
 - Instalar o Python 3
 - Importar a biblioteca Random
-- Importar biblioteca OS
+- Importar a biblioteca OS
 
 ### Considerações finais:
 - Todo estudo foi baseado seguindo as aulas de Análise de Dados e Data Science da instituição de ensino: **datascienceacademy**.
