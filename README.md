@@ -1,4 +1,4 @@
-# Adivinhe_Palavra - VERSÃO 2.0
+# Adivinhe a Palavra - VERSÃO 2.0
 ### O que é?
 Adivinhe a Palavra é um game simples baseado no jogo tradicional "A Forca", que tem por objetivo fazer com que o jogador adivinhe uma palavra estabalecida conforme a classificação que o mesmo escolheu e conforme a quantidade de letras.
 
@@ -10,8 +10,8 @@ Esse projeto foi desenvolvido a fim de entender os conceitos de funções, loops
 
 #### Habilidades desenvolvidas:
 - Lógica de programação
-- Sistema orientado a função
-- Orientção a Objeto
+- OF
+- POO
 - Entendimento do Python
 - Entendimento prático sobre herança, polimorfismo e encapsulamento
 
